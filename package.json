@@ -2,7 +2,7 @@
   "name": "next-shadcn-dashboard-starter",
   "version": "1.0.0",
   "private": true,
-  "example": "https://github.com/sumanbro0/Nextjs-nextauth-Starter",
+  "example": "https://github.com/sumanbro0/nextjs-nextauth-starter",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
